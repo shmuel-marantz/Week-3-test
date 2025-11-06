@@ -26,4 +26,4 @@ class Player:
         if sum_battle <= monster.armor_rating:
             return None
         else:
-            
+
